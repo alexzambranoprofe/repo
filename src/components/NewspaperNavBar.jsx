@@ -5,7 +5,7 @@ import styled from "styled-components";
 const NewspaperNav = styled.nav`
   background-color: #333; /* Fondo gris oscuro, clásico de las barras de navegación */
   padding: 10px 0;
-  border-bottom: 2px solid #c70000; /* Borde rojo que combina con el título del periódico */
+  border-bottom: 2px solid #c7009c; /* Borde rojo que combina con el título del periódico */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Sombra sutil para darle profundidad */
   text-align: center; /* Centra los elementos de la navegación */
 

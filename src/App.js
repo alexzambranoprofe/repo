@@ -6,7 +6,10 @@ import NewspaperTitle from "./components/NewspaperTitle";
 function App() {
   return (
     <div className="App">
-      <NewspaperTitle title="El Espacio" subtitle="mentiras bien contadas" />
+      <NewspaperTitle
+        title="Revista TEngaña"
+        subtitle=" sus mentiras bien contadas"
+      />
       <NewspaperNavBar />
       <ImageCarousel />
       <p>

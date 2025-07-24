@@ -8,7 +8,7 @@ const NewspaperBanner = styled.header`
   font-family: "Playfair Display", serif; /* Fuente elegante y clásica para el periódico */
   padding: 20px 0;
   text-align: center;
-  border-bottom: 5px solid #c70000; /* Borde inferior rojo vibrante */
+  border-bottom: 5px solid #4d2828; /* Borde inferior rojo vibrante */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Sombra sutil para profundidad */
   margin-bottom: 30px;
 `;
@@ -35,7 +35,7 @@ const Subtitle = styled.p`
   font-size: 1.2em;
   margin-top: 10px;
   font-style: italic;
-  color: #cccccc; /* Un gris más claro para el subtítulo */
+  color: white; /* Un gris más claro para el subtítulo */
 
   @media (max-width: 768px) {
     font-size: 1em;
