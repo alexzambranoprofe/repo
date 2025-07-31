@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/periodico/static/css/main.f855e6bc.css",
-    "main.js": "/periodico/static/js/main.f0760d57.js",
-    "static/js/453.39dc747d.chunk.js": "/periodico/static/js/453.39dc747d.chunk.js",
-    "index.html": "/periodico/index.html",
-    "main.f855e6bc.css.map": "/periodico/static/css/main.f855e6bc.css.map",
-    "main.f0760d57.js.map": "/periodico/static/js/main.f0760d57.js.map",
-    "453.39dc747d.chunk.js.map": "/periodico/static/js/453.39dc747d.chunk.js.map"
+    "main.css": "/repo/static/css/main.f855e6bc.css",
+    "main.js": "/repo/static/js/main.ecd0b2d3.js",
+    "static/js/453.39dc747d.chunk.js": "/repo/static/js/453.39dc747d.chunk.js",
+    "index.html": "/repo/index.html",
+    "main.f855e6bc.css.map": "/repo/static/css/main.f855e6bc.css.map",
+    "main.ecd0b2d3.js.map": "/repo/static/js/main.ecd0b2d3.js.map",
+    "453.39dc747d.chunk.js.map": "/repo/static/js/453.39dc747d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f0760d57.js"
+    "static/js/main.ecd0b2d3.js"
   ]
 }
