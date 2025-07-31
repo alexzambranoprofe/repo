@@ -1,14 +1,19 @@
 import "./App.css";
 import ImageCarousel from "./components/ImageCarousel";
+import LoMaslindoalPais from "./components/LoMaslindoalPais";
 import NewspaperNavBar from "./components/NewspaperNavBar";
 import NewspaperTitle from "./components/NewspaperTitle";
 
 function App() {
   return (
     <div className="App">
-      <NewspaperTitle title="El Espacio" subtitle="mentiras bien contadas" />
+      <NewspaperTitle
+        title="Revista TeEngaña"
+        subtitle=" sus mentiras bien contadas"
+      />
       <NewspaperNavBar />
       <ImageCarousel />
+      <LoMaslindoalPais />
       <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate,
         quisquam molestiae deleniti eaque obcaecati temporibus tenetur harum
