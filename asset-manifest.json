@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/periodico/static/css/main.f855e6bc.css",
+    "main.js": "/periodico/static/js/main.f0760d57.js",
+    "static/js/453.39dc747d.chunk.js": "/periodico/static/js/453.39dc747d.chunk.js",
+    "index.html": "/periodico/index.html",
+    "main.f855e6bc.css.map": "/periodico/static/css/main.f855e6bc.css.map",
+    "main.f0760d57.js.map": "/periodico/static/js/main.f0760d57.js.map",
+    "453.39dc747d.chunk.js.map": "/periodico/static/js/453.39dc747d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f0760d57.js"
+  ]
+}
